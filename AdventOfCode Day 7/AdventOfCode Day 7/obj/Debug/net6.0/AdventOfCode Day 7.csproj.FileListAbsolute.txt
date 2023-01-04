@@ -1,0 +1,15 @@
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\bin\Debug\net6.0\AdventOfCode Day 7.exe
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\bin\Debug\net6.0\AdventOfCode Day 7.deps.json
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\bin\Debug\net6.0\AdventOfCode Day 7.runtimeconfig.json
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\bin\Debug\net6.0\AdventOfCode Day 7.dll
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\bin\Debug\net6.0\AdventOfCode Day 7.pdb
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.csproj.AssemblyReference.cache
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.AssemblyInfo.cs
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.dll
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\refint\AdventOfCode Day 7.dll
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.pdb
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\AdventOfCode Day 7.genruntimeconfig.cache
+C:\Users\ruben\Desktop\Computationele-Intelligentie\AdventOfCode Day 7\AdventOfCode Day 7\obj\Debug\net6.0\ref\AdventOfCode Day 7.dll
